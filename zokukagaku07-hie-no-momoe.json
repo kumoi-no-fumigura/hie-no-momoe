@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hie-no-momoe",
  "yomi": "ひえのももえ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "嘉永5年（1852）7月序",
+  "author": "千種有功（1797〜1854）",
+  "desc": "比叡山を詠んだ百首。契沖の富士の百首などにならい、比叡の山だけで百首を詠む。"
+ },
  "editions": [
   {
    "pid": "993385",
